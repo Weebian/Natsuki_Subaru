@@ -1,0 +1,10 @@
+{
+    "name": "Nasuki_Subaru",
+    "version": "0.0.1",
+    "description": "It's Subaru from Re:Zero",
+    "main": "run.js",
+    "author": "Weebian",
+    "dependencies": {
+      "discord.js": "^11.3.2"
+    }
+  }
